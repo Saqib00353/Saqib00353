@@ -2,22 +2,19 @@
 
 ### Full-Stack Developer | Django • Next.js • React.js
 
-I'm a Full-Stack Developer from Pakistan with 3.5 years of experience building products across e-commerce and SaaS environments.
+I'm a Full-Stack Developer from Pakistan with 3.5 years of experience building products across e-commerce, healthcare & SaaS environments.
 
 I enjoy turning business ideas into reliable software, whether that's designing APIs, building scalable backend systems, crafting modern user interfaces, or taking products from concept to production.
-
-Currently working on products that support thousands of users, process large-scale transactions, and help businesses operate more efficiently.
 
 ---
 
 ## 🚀 A Few Things About Me
 
-* 🔭 Currently building and scaling e-commerce platforms at eComMinds
 * 🏗️ Delivered 8+ production applications
 * 👥 Built products serving 1,500+ active users
-* 💷 Contributed to systems processing £1.5M+ in customer payouts
-* 📈 Worked on products generating $300K+ monthly revenue
-* 👨‍💻 Leading and collaborating with a small development team
+* 💷 Contributed to systems processing £900k+ in customer payouts
+* 📈 Worked on e-commerce & healthcare products generating avg. $300K+ monthly revenue
+* 👨‍💻 Lead a small development team in startup.
 * 🌱 Always learning more about system design, architecture, and product development
 * ⚡ I enjoy solving business problems with software, not just writing code
 
@@ -50,10 +47,11 @@ Figma • Sentry • Swagger
 
 ---
 
-## 📈 What I Enjoy Building
+## 📈 What I have built in my career
 
-* SaaS Platforms
 * E-Commerce Applications
+* Healthcare Applications
+* SaaS Platforms
 * Scalable APIs
 * Internal Business Tools
 * Modern Frontend Experiences
@@ -65,7 +63,3 @@ Figma • Sentry • Swagger
 * 💼 LinkedIn: [linkedin.com/in/dev-saqib](https://www.linkedin.com/in/dev-saqib)
 * 📧 Email: [saqib0618.dev@gmail.com](mailto:saqib0618.dev@gmail.com)
 * 📍 Lahore, Pakistan
-
----
-
-> Building software that creates real business impact.
