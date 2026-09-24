@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Django • Next.js • React.js
 
-I'm a Full-Stack Developer from Pakistan with 3.5 years of experience building products across e-commerce, healthcare & SaaS environments.
+I'm a Full-Stack Developer from Pakistan with 4 years of experience building products across e-commerce, healthcare & SaaS environments.
 
 I enjoy turning business ideas into reliable software, whether that's designing APIs, building scalable backend systems, crafting modern user interfaces, or taking products from concept to production.
 
@@ -62,4 +62,5 @@ Figma • Sentry • Swagger
 
 * 💼 LinkedIn: [linkedin.com/in/dev-saqib](https://www.linkedin.com/in/dev-saqib)
 * 📧 Email: [saqib0618.dev@gmail.com](mailto:saqib0618.dev@gmail.com)
+* 💼 Portfolio: [hiresaqib.vercel.app](https://hiresaqib.vercel.app)
 * 📍 Lahore, Pakistan
