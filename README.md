@@ -1,66 +1,38 @@
-# Hi there, I'm Muhammad Saqib 👋
+# Hey, I'm Saqib 👋
 
-### Full-Stack Developer | Django • Next.js • React.js
+I build full-stack apps for e-commerce platforms. Give me messy, half-formed requirements and I'll turn them into production software that actually ships.
 
-I'm a Full-Stack Developer from Pakistan with 4 years of experience building products across e-commerce, healthcare & SaaS environments.
+I broke into tech about 4 years ago with zero experience, in the middle of my BSIT degree. Started out as a JavaScript developer, moved into UI-heavy Next.js work, and then spent two years as a full-stack developer at a UK-based e-commerce startup, where I built SellBack from scratch.
 
-I enjoy turning business ideas into reliable software, whether that's designing APIs, building scalable backend systems, crafting modern user interfaces, or taking products from concept to production.
+### 🛠️ What I've built
 
----
+- **[SellBack](https://sell.mobiledirectonline.co.uk)** — built it from scratch and scaled it from 0 to 3,350+ users, 3,000+ completed trade-ins, and £1M+ in customer payouts. 900+ Trustpilot reviews and 50+ customer video testimonials later, I'm still proud of this one.
+- **[PriceFirst](https://pricefirst.com)** — a B2B pricing engine that offers the best market rates for used phones and gadgets, with a multi-tenant dashboard using RBAC.
+- Led two junior engineers along the way: assigning tasks, reviewing PRs, giving feedback, and managing releases.
 
-## 🚀 A Few Things About Me
+### ⚡ How I work
 
-* 🏗️ Delivered 8+ production applications
-* 👥 Built products serving 1,500+ active users
-* 💷 Contributed to systems processing £900k+ in customer payouts
-* 📈 Worked on e-commerce & healthcare products generating avg. $300K+ monthly revenue
-* 👨‍💻 Lead a small development team in startup.
-* 🌱 Always learning more about system design, architecture, and product development
-* ⚡ I enjoy solving business problems with software, not just writing code
+Shipping fast doesn't mean cutting corners. I use AI tools to move quicker on the repetitive parts, so I can spend more time on architecture, edge cases, and the decisions that actually matter when a product is handling real transactions.
 
----
+### 🧰 Tech I work with
 
-## 🛠️ Tech Stack
+**Backend:** Python, Django, Django REST Framework, Node.js, Express.js
+**Frontend:** JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui, Shopify Polaris, GSAP, Framer Motion
+**Database:** PostgreSQL, MySQL, SQLite, Redis, MongoDB
+**Cloud & Deployment:** AWS (S3), Docker, Docker Compose, Vercel
 
-### Backend
+### 🌱 Outside of work
 
-```text
-Python • Django • Django REST Framework
-PostgreSQL • MySQL • Redis
-REST APIs • Celery • JWT • OAuth
-```
+When I'm not writing code, you'll probably find me learning new languages, exploring new tech, or messing around with side projects to keep my skills sharp.
 
-### Frontend
+Most of my client work lives in private repos, so what you see here is mostly side projects and experiments.
 
-```text
-React.js • Next.js • TypeScript
-Redux Toolkit • React Query
-Tailwind CSS • Material UI • Shadcn/UI
-```
+### 📫 Let's talk
 
-### Tools & Infrastructure
+Always open to freelance, contract, remote, full-time, or hybrid opportunities.
 
-```text
-Git • AWS • Docker
-Figma • Sentry • Swagger
-```
+- 🌐 [hiresaqib.vercel.app](https://hiresaqib.vercel.app)
+- 💼 [linkedin.com/in/dev-saqib](https://linkedin.com/in/dev-saqib)
+- ✉️ saqib0618.dev@gmail.com
 
----
-
-## 📈 What I have built in my career
-
-* E-Commerce Applications
-* Healthcare Applications
-* SaaS Platforms
-* Scalable APIs
-* Internal Business Tools
-* Modern Frontend Experiences
-* Full-Stack Products
-
----
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [linkedin.com/in/dev-saqib](https://www.linkedin.com/in/dev-saqib)
-* 📧 Email: [saqib0618.dev@gmail.com](mailto:saqib0618.dev@gmail.com)
-* 💼 Portfolio: [hiresaqib.vercel.app](https://hiresaqib.vercel.app)
-* 📍 Lahore, Pakistan
+My DMs are always open :-)
